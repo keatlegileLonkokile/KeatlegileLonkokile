@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ## 🔐 Projects
 
 - **[SSH Brute-Force & Account Compromise Detector](https://github.com/keatlegileLonkokile/ssh-bruteforce-detector)** — Python tool that parses SSH auth logs, flags brute-force IPs and likely account compromises, and generates a SOC-style report with charts.
+- **[Retail Sales Performance Analysis](https://github.com/keatlegileLonkokile/retail-sales-performance-analysis)** — Business analyst project: a formula-driven Excel report analyzing a year of retail sales data across regions, stores, categories, and products, with SUMIFS/INDEX-MATCH formulas, charts, and data-backed recommendations.
