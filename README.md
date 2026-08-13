@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔐 Projects
+
+- **[SSH Brute-Force & Account Compromise Detector](https://github.com/keatlegileLonkokile/ssh-bruteforce-detector)** — Python tool that parses SSH auth logs, flags brute-force IPs and likely account compromises, and generates a SOC-style report with charts.
